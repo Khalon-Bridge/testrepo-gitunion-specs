@@ -135,3 +135,19 @@ This advanced interplanetary spacecraft is designed for the ambitious goal of tr
 - [ ] [Cargo Storage Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/67)
 
 
+
+
+## Feature: A Spaceship for Traveling to Mars
+The spacecraft designed for Mars travel is equipped with cutting-edge propulsion systems, such as ion thrusters or nuclear thermal rockets, to efficiently traverse the vast distance between Earth and Mars. Featuring a robust life support system, it sustains its crew with air, water recycling, and food for the duration of the mission. The vessel is engineered with protective shielding against cosmic radiation and micro-meteorites, ensuring the safety of astronauts from the harsh space environment. It includes a lander module for Martian surface operations and a return vehicle that can achieve escape velocity for the journey back to Earth. This spaceship addresses the challenges of long-duration space travel by providing a habitable environment and self-sustaining resources, thus enabling scientific exploration, potential colonization efforts, and advancing human presence in the solar system.
+
+***Stories***
+- [ ] [Command Module Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/69)
+- [ ] [Service Module Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/70)
+- [ ] [Habitation Module Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/71)
+- [ ] [Propulsion Module Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/72)
+- [ ] [Life Support Systems Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/73)
+- [ ] [Thermal Control System](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/74)
+- [ ] [Cargo Storage Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/75)
+- [ ] [Landing Module Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/76)
+
+
