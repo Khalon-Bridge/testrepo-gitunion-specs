@@ -72,3 +72,19 @@ The project aims to address the rising demand for economical living spaces by co
 - [ ] [Sustainability and Energy Efficiency Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/32)
 
 
+
+
+## Feature: Modular Affordable Housing with Accessible Financing
+This project aims to address the critical shortage of affordable, high-quality housing by utilizing modular construction methods, which reduce building time and costs. Our modular homes are pre-fabricated in a controlled factory setting to ensure efficiency, consistent quality, and waste reduction. Once complete, the modules are transported to the site for assembly, drastically cutting down on-site construction time and disruption to local communities. The affordable credit structure opens the door to homeownership for low to moderate-income families, providing them with a long-term housing solution that is both cost-effective and sustainable. Benefits include increased accessibility to affordable housing, fostering community development, and promoting economic stability by offering a viable pathway to building equity through homeownership.
+
+***Stories***
+- [ ] [Site Selection for Modular Affordable Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/34)
+- [ ] [Modular Affordable Housing Project](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/35)
+- [ ] [Material Procurement for Modular Affordable Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/36)
+- [ ] [Modular Affordable Housing Project Management](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/37)
+- [ ] [Community Integration for Modular Affordable Housing Project](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/38)
+- [ ] [Sustainability Features for Modular Affordable Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/39)
+- [ ] [Financial Model Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/40)
+- [ ] [Regulatory Compliance for Modular Affordable Housing Project](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/41)
+
+
