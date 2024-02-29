@@ -199,3 +199,18 @@ This state-of-the-art interplanetary spaceship is designed for extended missions
 - [ ] [Communication System for Mars Spaceship](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/53)
 
 
+
+
+## Feature: Fermi Generator App
+The Fermi Generator App is an educational tool designed to foster critical thinking and estimation skills. Inspired by the famous Fermi problems which focus on making approximate calculations with limited information, this app challenges users to approach complex questions by breaking them down into solvable parts. It helps in solving problems such as estimating large quantities or predicting probabilities in scenarios where precise data is unavailable. Users benefit from improved numerical intuition, better problem-solving techniques, and enhanced reasoning capabilities. The app provides a platform for both students and professionals to practice and refine their abilities to make reasonable assumptions and to navigate uncertainty effectively in various fields, from science and engineering to finance and management.
+
+***Stories***
+- [ ] [UserInput specifications for Fermi Generator App](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/102)
+- [ ] [Fermi Generator Functionality](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/103)
+- [ ] [Assumptions Specification](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/104)
+- [ ] [Fermi Calculations](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/105)
+- [ ] [Estimation Results](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/99)
+- [ ] [Fermi Estimation Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/100)
+- [ ] [Fermi Generator Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/101)
+
+
