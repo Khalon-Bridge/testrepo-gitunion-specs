@@ -342,3 +342,19 @@ The Fermi Generator is an intuitive tool designed to assist users in the estimat
 - [ ] [Fermi Problem Solving Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/148)
 
 
+
+
+## Feature: Affordable Modular Housing
+Affordable modular housing refers to a cost-effective construction approach that involves prefabricating sections or modules of a house in a factory-controlled environment before transporting and assembling them at the final building site. This technique addresses the problem of rising traditional construction costs and prolonged building timelines, enabling lower-income families to become homeowners and communities to expand their housing options quickly. The benefits include reduced labor costs, minimal on-site construction waste, consistent quality control, faster completion times compared to traditional construction, and the flexibility to adapt to various architectural styles and layouts, making it an eco-friendly and versatile solution for the housing shortage crisis.
+
+***Stories***
+- [ ] [Affordable Modular Housing Design Concept](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/151)
+- [ ] [Site Analysis for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/153)
+- [ ] [Modular Unit Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/155)
+- [ ] [Modular Housing Construction Process](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/157)
+- [ ] [Material Selection for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/152)
+- [ ] [Infrastructure Integration for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/154)
+- [ ] [Cost Analysis for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/156)
+- [ ] [Sustainability Considerations in Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/158)
+
+
