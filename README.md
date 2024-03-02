@@ -374,3 +374,19 @@ Affordable modular housing addresses the critical issue of providing cost-effect
 - [ ] [Regulatory Compliance for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/167)
 
 
+
+
+## Feature: Affordable Modular Housing
+Affordable modular housing refers to an innovative construction method where homes are manufactured in sections or modules in a controlled factory setting before being transported and assembled on-site. This technique solves the problem of costly and time-consuming traditional construction by offering a quicker, more cost-effective solution. The benefits include reduced labor and material costs, decreased build times, minimal on-site waste, and the flexibility to customize and expand the structures with ease. Furthermore, these homes are often energy-efficient and can be designed to high sustainability standards, creating long-term savings for homeowners and contributing positively to the environment.
+
+***Stories***
+- [ ] [Affordable Modular Housing Design Concept](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/104)
+- [ ] [Site Preparation for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/105)
+- [ ] [Modular Fabrication Specifications for Affordable Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/106)
+- [ ] [Modular Housing Transportation Logistics](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/107)
+- [ ] [On-site Assembly Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/100)
+- [ ] [Modular Housing Infrastructure Integration](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/101)
+- [ ] [Interior Finishes for Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/102)
+- [ ] [Regulatory Compliance for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/103)
+
+
