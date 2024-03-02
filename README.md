@@ -406,3 +406,19 @@ Affordable modular housing addresses the housing affordability crisis by offerin
 - [ ] [Regulatory Compliance for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/112)
 
 
+
+
+## Feature: Affordable Modular Housing
+Affordable Modular Housing refers to a type of pre-fabricated housing that is cost-effective and can be assembled on-site. It solves the problem of the high cost of traditional construction and lengthy building times, offering a more accessible housing option for low- to middle-income families. The benefits of this housing solution include reduced construction waste, scalability to meet various housing needs, and the flexibility to disassemble, relocate, or reconfigure as required. This approach also allows for better quality control during manufacturing and reduces the impact of weather delays on construction schedules, further enhancing affordability and efficiency.
+
+***Stories***
+- [ ] [Site Preparation for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/119)
+- [ ] [Foundation System Specifications for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/121)
+- [ ] [Core Structure Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/123)
+- [ ] [Exterior Cladding for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/125)
+- [ ] [Interior Finishing Specifications for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/118)
+- [ ] [Utilities Installation for Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/120)
+- [ ] [Insulation and Weatherproofing for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/122)
+- [ ] [Roof System for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/124)
+
+
