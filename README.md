@@ -278,3 +278,19 @@ The Fermi Generator is a sophisticated tool designed to assist users in performi
 - [ ] [Fermi Problem Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/114)
 
 
+
+
+## Feature: A User-Friendly Fermi Generator
+The user-friendly Fermi Generator is an online tool that enables users to effortlessly estimate large numerical quantities without the need for detailed data or exact calculations. Designed for ease of use, it addresses the common problem of needing to make educated guesses in various fields such as education, science, and engineering. By simplifying the estimation process known as Fermi problems — typically complex, back-of-the-envelope calculations — it democratizes the ability to approximate figures and make assumptions, regardless of a user's mathematical background. Users benefit from its intuitive interface, which guides them through breaking down a large problem into manageable pieces, applying reasonable assumptions, and combining these to reach an estimated answer. The generator also serves an educational purpose, enhancing problem-solving skills and numerical intuition.
+
+***Stories***
+- [ ] [Fermi Generator Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/117)
+- [ ] [KnownQuantities for Fermi Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/118)
+- [ ] [Estimation Parameters](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/121)
+- [ ] [Fermi Calculation Step Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/122)
+- [ ] [User-friendly Fermi Estimation Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/119)
+- [ ] [Fermi Problem Estimation Generator](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/120)
+- [ ] [DocumentationLinks Specification](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/123)
+- [ ] [AdditionalNotes Feature](https://github.com/Khalon-Bridge/testrepo-gitunion/issues/124)
+
+
