@@ -422,3 +422,19 @@ Affordable Modular Housing refers to a type of pre-fabricated housing that is co
 - [ ] [Roof System for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/124)
 
 
+
+
+## Feature: Affordable Modular Housing
+Affordable modular housing is a construction solution designed to address the need for cost-effective, accessible, and efficient residential space. By using prefabricated modules, which are mass-produced off-site in a controlled factory setting, costs are significantly reduced. These modules are then transported to the designated site and assembled to form a complete house. This approach not only minimizes construction waste and environmental disruption but also shaves off considerable time from the building process compared to traditional construction methodologies. The benefits include lower price points, making homeownership more attainable for low to middle-income families, faster occupancy times due to quick assembly, and the flexibility to expand or modify the structure over time. Additionally, the uniform quality and modern design protocols ensure that each housing unit meets safety and comfort standards, thus providing a reliable and sustainable housing option.
+
+***Stories***
+- [ ] [Foundation Specifications for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/131)
+- [ ] [Wall Panel Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/132)
+- [ ] [Roofing Specifications for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/133)
+- [ ] [Flooring Specifications for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/134)
+- [ ] [Windows & Doors Specifications](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/127)
+- [ ] [Utilities for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/128)
+- [ ] [Interior Fixtures Specification for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/129)
+- [ ] [Exterior Finishes for Affordable Modular Housing](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/130)
+
+
