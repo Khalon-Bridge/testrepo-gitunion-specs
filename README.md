@@ -468,3 +468,18 @@ The interface serves as a portal for users to assert ownership or control over s
 - [ ] [Network Claim Form](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/152)
 
 
+
+
+## Feature: Network Claiming Interface
+The interface serves as a portal where authorized users can assert ownership or control over a specific network entity. Users interact with a form to enter critical information such as the network name, unique identifiers (like MAC or IP addresses), and credentials verifying their right to claim the network. This feature streamlines the process of network management, helping to prevent unauthorized access and facilitating easier configuration and monitoring. The digital claim aids in asset tracking and ensures that only designated personnel can make changes to the network settings, enhancing security and operational efficiency.
+
+***Stories***
+- [ ] [Network Identification Information](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/155)
+- [ ] [Administrative Contact Details](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/156)
+- [ ] [Technical Contact Details](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/158)
+- [ ] [Network Configuration Interface](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/160)
+- [ ] [Security Verification for Network Claiming Interface](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/157)
+- [ ] [Terms and Conditions Acceptance](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/159)
+- [ ] [Submission Confirmation](https://github.com/Khalon-Bridge/testrepo-gitunion-specs/issues/161)
+
+
